@@ -1,6 +1,6 @@
-# xylophone_flutter
+<h1>Xylophone App</h1>
 
-A new Flutter project.
+Simple functional Xylophone app built using Flutter
 
 ## Getting Started
 
