@@ -1,7 +1,8 @@
 <h1>Xylophone App</h1>
 
 Simple functional Xylophone app built using Flutter
-
+<h4>Screenshot</h4>
+<img src = "Screenshots/qemu-system-x86_64_03wyBSllyc.png" width="200" height="400">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
